@@ -46,7 +46,6 @@ collections: # A list of collections the CMS should be able to edit
             name: "team"
             widget: "list"
             fields:
-              - {label: Quote, name: quote, widget: string, default: "I am awesome!"}
               - label: Person
                 name: person
                 widget: object
