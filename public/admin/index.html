@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,16 +11,18 @@
   <link rel="stylesheet" href="admin.css" />
 
 </head>
+
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
   <script src="https://unpkg.com/netlify-cms@1.1.0/dist/cms.js"></script>
 
   <script>
-  // redirect when logging out
-window.netlifyIdentity.on('logout', function () {
-  document.location.href = '/'
-})
-</script>
+    // redirect when logging out
+    window.netlifyIdentity.on('logout', function () {
+      document.location.href = '/'
+    })
+  </script>
 </body>
+
 </html>

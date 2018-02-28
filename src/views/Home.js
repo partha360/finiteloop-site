@@ -21,7 +21,7 @@ export default ({ page }) => {
               <div>
                 <h2>{person.name}</h2>
                 <h3>{person.title}</h3>
-                <img style={{ width: '100px' }} src={person.avatar} />
+                <img style={{ width: '100px', height: '100px', borderRadius: '50%' }} alt={person.name} src={person.avatar} />
                 <p>{person.about}</p>
               </div>
             ))}

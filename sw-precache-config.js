@@ -17,7 +17,7 @@ module.exports = {
   runtimeCaching: [
     {
       // cache content from external url as they are loaded by browser
-      urlPattern: /^https?:\/\/.*example-cdn.com/,
+      urlPattern: /^https?:\/\/.*netlify.com/,
       handler: 'cacheFirst'
     },
     {
