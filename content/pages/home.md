@@ -19,7 +19,7 @@ team:
         Customer & User experience, Automation.
       avatar: /images/uploads/20245701_10213173409842317_2749298608033622687_n.jpg
       name: Parthasarathy S
-      quote: Solution Architect
+      title: Solution Architect
   - person:
       about: >-
         Previously led the Cloud center of excellence for a leading IT services
@@ -29,6 +29,7 @@ team:
         IASA Certified Architect.
       avatar: /images/uploads/unsplash4.jpg
       name: Anand
+      title: Director
   - person:
       about: >-
         Previously, a Senior institution builder at a global non-profit
@@ -38,6 +39,7 @@ team:
         Microsoft certified Architect. Update- Drives Umesh’s old fiat now.
       avatar: /images/uploads/mark-chang-74-3.jpg
       name: Subbu
+      title: Solution Manager
 ---
 > We are a team of passionate business,design and technology professionals who respect quality, and simplicity. We have a good blend of design, solutions, product development and consulting expertise.
 >
