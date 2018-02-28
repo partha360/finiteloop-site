@@ -1,7 +1,6 @@
 ---
 title: finiteloop
 subtitle: 'finite minds, infinite options, right solution...'
-section1: 'The Team'
 team:
   - person:
       about: >-
@@ -20,4 +19,25 @@ team:
         Customer & User experience, Automation.
       avatar: /images/uploads/20245701_10213173409842317_2749298608033622687_n.jpg
       name: Parthasarathy S
+  - person:
+      about: >-
+        Previously led the Cloud center of excellence for a leading IT services
+        organisation. Tea Connoisseur, Gamer, Audiophile, and drives an old
+        Royal Enfield whenever he manages to start it. Hard core architect.
+        Knows everything under the sun. Try it. Decades of hands-on experience.
+        IASA Certified Architect.
+      avatar: /images/uploads/unsplash4.jpg
+      name: Anand
+  - person:
+      about: >-
+        Previously, a Senior institution builder at a global non-profit
+        organisation. Creates technology infrastructure for the citizen sector.
+        Swimmer, and Traveler. Led open source initiatives, and multi-million
+        dollar programs successfully. Specializes on social impact projects.
+        Microsoft certified Architect. Update- Drives Umesh’s old fiat now.
+      avatar: /images/uploads/mark-chang-74-3.jpg
+      name: Subbu
 ---
+> We are a team of passionate business,design and technology professionals who respect quality, and simplicity. We have a good blend of design, solutions, product development and consulting expertise.
+>
+> We listen, learn, and lead.
