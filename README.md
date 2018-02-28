@@ -1,2 +1,0 @@
-# finiteloop-site
-finiteloop website
