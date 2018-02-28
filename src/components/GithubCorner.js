@@ -5,6 +5,7 @@ export default ({ url, style, className = '', color = '#151513' }) => (
   <a
     className={`GithubCorner ${className}`}
     href={url}
+    target="_new"
     aria-label='View source on Github'
     style={style}
   >
