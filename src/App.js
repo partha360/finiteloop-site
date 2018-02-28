@@ -71,7 +71,7 @@ class App extends Component {
           <AOS options={{ duration: 250 }} />
           <ScrollToTop />
           <ServiceWorkerNotifications reloadOnUpdate />
-          <GithubCorner url='https://github.com/Jinksi/netlify-cms-react-starter' />
+          <GithubCorner url='https://github.com/partha360/finiteloop-site' />
           <Helmet
             defaultTitle={siteTitle}
             titleTemplate={`${siteTitle} | %s`}

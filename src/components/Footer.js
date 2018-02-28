@@ -6,7 +6,7 @@ export default ({ globalSettings, socialSettings, navLinks }) => (
   <footer className='Footer'>
     <div className='Footer--Lower'>
       <div className='container taCenter'>
-        <span>© 2017 All rights reserved.</span>
+        <span>© 2018 All rights reserved.</span>
       </div>
     </div>
   </footer>

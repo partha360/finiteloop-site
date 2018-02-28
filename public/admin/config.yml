@@ -42,6 +42,18 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Body, name: body, widget: markdown}
+          - label: "Team"
+            name: "team"
+            widget: "list"
+            fields:
+              - {label: Quote, name: quote, widget: string, default: "I am awesome!"}
+              - label: Person
+                name: person
+                widget: object
+                fields:
+                  - {label: Name, name: name, widget: string, default: "Emmet"}
+                  - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
+                  - {label: About, name: about, widget: text, default: "About me"}
       - file: "content/pages/about.md"
         label: "About Page"
         name: "about-page"
