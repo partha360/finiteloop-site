@@ -18,7 +18,7 @@ team:
         I aspire to be a Thought Leader, Technology Evangelist focusing on
         Customer & User experience, Automation.
       avatar: /images/uploads/20245701_10213173409842317_2749298608033622687_n.jpg
-      name: Parthasarathy S
+      name: Partha
       title: Solution Architect
   - person:
       about: >-
