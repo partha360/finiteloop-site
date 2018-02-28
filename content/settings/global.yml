@@ -1,11 +1,8 @@
 siteTitle: finiteloop
 siteUrl: 'https://finiteloop.netlify.com'
-siteDescription: >-
-  A starter project for creating lightning-fast, offline-first websites with
-  Netlify CMS and React.
+siteDescription: 'finite minds, infinite ideas, right solution....'
 socialMediaCard:
   image: /images/uploads/card-og.png
   twitterCreatorAccount: '@partha360'
   twitterSiteAccount: ''
-headerScripts: |-
-  <!-- Add your analytics scripts / verification meta here -->
+headerScripts: <!-- Add your analytics scripts / verification meta here -->
