@@ -52,6 +52,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: object
                 fields:
                   - {label: Name, name: name, widget: string, default: "Emmet"}
+                  - {label: Title, name: title, widget: string, default: "Solution Architect"}
                   - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
                   - {label: About, name: about, widget: text, default: "About me"}
       - file: "content/pages/about.md"

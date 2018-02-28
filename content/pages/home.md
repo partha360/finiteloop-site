@@ -19,7 +19,7 @@ team:
         Customer & User experience, Automation.
       avatar: /images/uploads/20245701_10213173409842317_2749298608033622687_n.jpg
       name: Parthasarathy S
-    quote: Solution Architect
+      quote: Solution Architect
   - person:
       about: >-
         Previously led the Cloud center of excellence for a leading IT services
